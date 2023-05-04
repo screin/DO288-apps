@@ -6,6 +6,7 @@ import (
     "fmt"
 )
 
+
 var lang = flag.String("lang", "en", "run app with language support - default is english")
 
 func main() {
